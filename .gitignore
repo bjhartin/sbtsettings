@@ -1,2 +1,4 @@
-./launchers
-./boot
+launchers/
+boot/
+0.13/dependency
+**/target
